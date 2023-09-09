@@ -5,12 +5,7 @@ Este repositorio contiene el código y los recursos para el proyecto de análisi
 El repositorio se organiza de la siguiente manera:
 
 ## EDA (Exploratory Data Analysis)
-El análisis exploratorio de datos es un componente crucial de este proyecto. Hemos realizado un EDA exhaustivo utilizando Python y documentado cada paso en un Jupyter Notebook. El EDA aborda los siguientes aspectos:
-
-- Búsqueda de valores faltantes.
-- Identificación de valores atípicos/extremos u outliers.
-- Detección de registros duplicados.
-- Utilización de gráficos apropiados para visualizar los datos.
+El análisis exploratorio de datos es un componente crucial de este proyecto. se realizo un EDA exhaustivo utilizando Python y documentado cada paso en un Jupyter Notebook.
 
 El notebook EDA se encuentra en el archivo EDA.ipynb
 
