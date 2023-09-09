@@ -5,7 +5,7 @@ Este repositorio contiene el código y los recursos para el proyecto de análisi
 El repositorio se organiza de la siguiente manera:
 
 ## EDA (Exploratory Data Analysis)
-El análisis exploratorio de datos es un componente crucial de este proyecto. se realizo un EDA exhaustivo utilizando Python y documentado cada paso en un Jupyter Notebook.
+El análisis exploratorio de datos es un componente crucial de este proyecto. Se realizó un EDA exhaustivo utilizando Python y documentado cada paso en un Jupyter Notebook.
 
 El notebook EDA se encuentra en el archivo EDA.ipynb
 
@@ -24,6 +24,6 @@ Se midieron tres KPIs relacionados con la seguridad vial en CABA:
 
 2. **Reducción de la Cantidad de Accidentes Mortales de Motociclistas**: El objetivo es reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en comparación con el año anterior. La fórmula utilizada es: `(Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100`.
 
-3. **Reduccion de un 5% sobre los Acidentes mortales en  las calles**: El objetivo es reducir en unn 5% la cantidad de accidentes mortales en las distintos tipos de calle, ya sea una avenida o autopista con respecto a los ultimos 6 meses con el semestre anterior.
+3. **Reduccion de un 5% sobre los Acidentes mortales en  las calles**: El objetivo es reducir en un 5% la cantidad de accidentes mortales en las distintos tipos de calle, ya sea una avenida o autopista con respecto a los últimos 6 meses con el semestre anterior.
 
 Por favor, explore el repositorio y los recursos proporcionados para obtener más detalles sobre el proyecto y su implementación. Siéntase libre de contactarnos si tiene alguna pregunta o comentario. ¡Esperamos que este proyecto contribuya a mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires!
